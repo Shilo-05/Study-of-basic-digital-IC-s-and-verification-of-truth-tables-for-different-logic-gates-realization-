@@ -1,4 +1,8 @@
 # Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
+### Name : Oswald Shilo.A 
+
+RegisterNumber:2300 6556 
+ 
  AIM:
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
 
@@ -57,16 +61,22 @@ Switch ON the main switch
 Press the switches for inputs “A” and “B”. The switch is ON state when 1 is pressed. The switch is OFF state when 0 is pressed.
 If the output is 1, then the bulb glows.
 Check all the gates following the same procedure.
-Program:
+# Program:
 /*
-Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
-Logic symbol & Truthtable
-RTL realization
-Output:
-RTL
+Program to Study the basic digital IC’s and verification of truth tables for different logic gates, realization using Verilog.
+![image](https://github.com/Shilo-05/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/139841664/499fef58-4992-4ed4-bcf1-741415857057)
 
-Result:
+*/
+# RTL:
+![image](https://github.com/Shilo-05/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/139841664/dcaa3802-a2fc-46ad-ba96-e6802b47219e)
+
+*/
+# Logic symbol & Truthtable:
+![image](https://github.com/Shilo-05/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/139841664/a9feab72-6df9-4a76-9534-6103de16d3db)
+
+*/
+# Output Waveform:
+![image](https://github.com/Shilo-05/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/139841664/f6cc0720-b74c-494c-99c0-eaf95f1f1205)
+
+# Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
